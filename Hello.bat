@@ -1,2 +1,2 @@
-echo "Hello world %ddate%,%time%"
+echo "Hello world : %date% : %time%"
 echo "I am free"
