@@ -1,1 +1,1 @@
-echo "Hello world %ddate%,%time%"
+I am defect
