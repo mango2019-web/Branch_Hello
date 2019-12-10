@@ -1,1 +1,1 @@
-I am defect
+echo "I am defect"
